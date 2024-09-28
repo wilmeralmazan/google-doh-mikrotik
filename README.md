@@ -7,4 +7,4 @@ After downloading, simply run the script on your MikroTik router to enhance your
 
 1. Download the file dns-doh.rsc
 2. Upload the file to the router
-3. Run the script:  /import dh-config.rsc
+3. Run the script:  /import dns-doh.rsc
